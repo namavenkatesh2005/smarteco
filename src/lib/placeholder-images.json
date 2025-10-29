@@ -1,0 +1,10 @@
+{
+  "placeholderImages": [
+    {
+      "id": "living-room",
+      "description": "A modern living room with a couch and a coffee table.",
+      "imageUrl": "https://images.unsplash.com/photo-1564078516393-cf04bd966897?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxsaXZpbmclMjByb29tfGVufDB8fHx8MTc2MTQ3MDY1MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "living room"
+    }
+  ]
+}
